@@ -18,5 +18,5 @@ Example of use for 5 OVS switches :
 
 
 ##
-## Example: sudo bash topo1.sh -r -s "s1 s2 s3 s4 s5" -l "s1-s2 s2-s3 s3-s4 s3-s1 s2-s5 s5-s3" -c "192.168.56.104" -h "h1 h2" -sh "s1-h1 s2-h2" -g "s1-192.168.56.102-192.168.56.101"
+## Example: sudo bash topo_v4.sh -r -s "s1 s2 s3 s4 s5" -l "s1-s2 s2-s3 s3-s4 s3-s1 s2-s5 s5-s3" -c "192.168.56.104" -h "h1 h2" -sh "s1-h1 s2-h2" -g "s1-192.168.56.102-192.168.56.101"
 ##
