@@ -1,5 +1,5 @@
 # SDNSimulation
-An environment to simulate an SDN dataplane by including extra features and fault injection
+An environment to simulate an SDN dataplane by including extra features such redundant links addition, GRE tunnels, and fault injection
 This environment allows to set fault scenarios fully customizable for any network topology by keeping a better configuration control on
 the interconnections than the existing in current simulation tools such as Mininet
 
